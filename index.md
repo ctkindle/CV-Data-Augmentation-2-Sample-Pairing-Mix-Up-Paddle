@@ -1,7 +1,7 @@
 # 四、上回没讲完的故事
 在上文《[训练数据太少？过拟合？一文带你领略“数据增长魔法”(上)](https://aistudio.baidu.com/aistudio/projectdetail/408059)》中我们已经使用了明暗、对比度、饱和度、锐化、 裁切、翻转、旋转、和加噪等各种“争奇斗艳”的图像数据増广技术治好了模型的过拟合。这样，应该就可以 live happily ever after了吧。现实中，如果我们继续训练模型至500epoch，loss曲线就又长成了“这样儿”...
 
-![](https://ai-studio-static-online.cdn.bcebos.com/af2de78230c9413e8010bcbba2567ae9cb14b6c678d54a19ad3c18fc7a883b5d)
+![](https://ai-studio-static-online.cdn.bcebos.com/af2de78230c9413e8010bcbba2567ae9cb14b6c678d54a19ad3c18fc7a883b5d) 
 
 真是“我待模型如初恋，她虐我一遍又一遍”。要想继续提高模型精度，上次那几招已经被“过拟合”给看破了。接下来怎么办？
 
